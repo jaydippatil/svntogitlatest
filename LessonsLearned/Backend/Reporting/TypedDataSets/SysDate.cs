@@ -1,4 +1,5 @@
-﻿namespace Backend.Reporting.TypedDataSets {
+﻿namespace Backend.Reporting.TypedDataSets
+{
 
 
     partial class SysDate
